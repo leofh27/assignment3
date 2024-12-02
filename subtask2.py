@@ -25,3 +25,5 @@ def process_sequence():
     print(f"Mean (a): {a:.2f}")
 
 process_sequence()
+
+# it looks like I learned how to use git today

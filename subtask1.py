@@ -11,3 +11,5 @@ def largest_square(n):
 n = 37
 result = largest_square(n)
 print(f"The largest square number less than or equal to {n} is {result}.")
+
+# it looks like I learned how to use git today
